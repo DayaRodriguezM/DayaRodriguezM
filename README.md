@@ -10,14 +10,22 @@ Actualmente desarrollo soluciones utilizando **SQL, Python, Power BI, Tableau y 
 
 ## 🛠️ Tech Stack
 
-**Análisis de datos**  
-SQL · Python · Pandas · NumPy
+### Análisis de datos
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Business Intelligence**  
-Power BI · DAX · Tableau · Power Query
+### Business Intelligence
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Herramientas**  
-Excel Avanzado · SAP ERP · GitHub
+### Herramientas
+![Excel](https://img.shields.io/badge/Excel%20Avanzado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP%20ERP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -27,7 +35,7 @@ Excel Avanzado · SAP ERP · GitHub
 
 **Power BI · Tableau · Excel · SAP**
 
-Proyecto aplicado a un proceso real de remuneraciones para controlar y conciliar solicitudes de anticipos con registros vigentes en SAP.
+Proyecto aplicado a un proceso real de remuneraciones para automatizar validaciones, conciliar solicitudes con registros SAP e identificar duplicados y fuera de corte, facilitando el control de pagos para más de 1.600 colaboradores.
 
 Incluye validaciones de calidad de datos, reglas de negocio, identificación de duplicados y seguimiento mediante KPIs.
 
@@ -53,9 +61,9 @@ Análisis de más de **58.000 transacciones**, evaluando ingresos, margen, compo
 
 ## 🚀 Actualmente
 
-📚 Fortaleciendo conocimientos en **SQL, Python, Business Intelligence y Cloud**.
+📚 Profundizando en SQL, Python, Cloud y herramientas modernas de datos.
 
-💼 Orientada a oportunidades como **Data Analyst, BI Analyst y Control de Gestión con foco en datos**.
+💼 Interesada en oportunidades como Data Analyst Jr., BI Analyst Jr. y Analista de Control de Gestión con foco en datos.
 
 ---
 
