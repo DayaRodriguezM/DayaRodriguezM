@@ -70,5 +70,4 @@ Análisis de más de **58.000 transacciones**, evaluando ingresos, margen, compo
 ## 🤝 Conectemos
 
 - LinkedIn: [Dayana Rodríguez](https://www.linkedin.com/in/dayanarodriguezmendez)
-- GitHub: [DayaRodriguezM](https://github.com/DayaRodriguezM)
 - Portafolio: [https://dayarodriguezm.github.io/]
