@@ -1,6 +1,6 @@
 # 👋 Hola, soy Dayana Rodríguez
 
-### Data Analyst | Business Intelligence
+### Data Analyst | Business Intelligence | SQL • Python • Power BI • Tableau
 
 Profesional con experiencia en análisis de datos, calidad de información y automatización de procesos, trabajando con grandes volúmenes de datos en entornos operativos y de Recursos Humanos.
 
