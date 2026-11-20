@@ -31,31 +31,36 @@ Actualmente desarrollo soluciones utilizando **SQL, Python, Power BI, Tableau y 
 
 ## 📊 Proyectos destacados
 
-### 💰 Gestión y conciliación de anticipos
+### 🐍 [Payroll Analytics | Control de descuentos y saldos de nómina](https://github.com/DayaRodriguezM/payroll-analytics-control-descuentos)
 
-**Power BI · Tableau · Excel · SAP**
+**Python · pandas · NumPy · Tableau**
 
-Proyecto aplicado a un proceso real de remuneraciones para automatizar validaciones, conciliar solicitudes con registros SAP e identificar duplicados y fuera de corte, facilitando el control de pagos para más de 1.600 colaboradores.
+Automatización de validaciones y cálculos de remuneraciones sobre 6.604 registros. Se identificaron 272 casos para revisión o acción, reduciendo el tiempo de procesamiento de 70 a 2 minutos (**97,1 %**).
 
-Incluye validaciones de calidad de datos, reglas de negocio, identificación de duplicados y seguimiento mediante KPIs.
+### 🗄️ [Uber 2024 | Data Quality & Profitability](https://github.com/DayaRodriguezM/uber-2024-sql-data-quality-profitability)
 
-### 🛵 RappiPlus – Rentabilidad y comportamiento de clientes
+**SQL Server · Data Quality · Análisis de rentabilidad**
 
-**Python · Power BI**
+Auditoría de datos transaccionales, detección de 1.224 registros duplicados y análisis de rentabilidad y retorno de inversión en marketing (ROMI).
 
-Análisis de rentabilidad, funnel de conversión y cohortes sobre datos transaccionales para identificar oportunidades de mejora.
+### 🚀 [RappiPlus | Rentabilidad y comportamiento de clientes](https://github.com/DayaRodriguezM/rappiplus-dashboard-rentabilidad-tableau)
 
-### 🏠 Real Estate Analytics
+**Python · SQL · Tableau**
 
-**Power BI · Tableau**
+Análisis de rentabilidad, funnel de conversión, retención por cohortes y oportunidades de mejora comercial mediante indicadores y visualizaciones.
 
-Dashboard ejecutivo para analizar desempeño comercial, estacionalidad, comisiones y comportamiento de clientes.
+### 💰 [Gestión y conciliación de anticipos](https://github.com/DayaRodriguezM/gestion-conciliacion-anticipos)
 
-### 📈 Dashboard de desempeño comercial
+**Excel · SAP · Power BI · Tableau**
 
-**Power BI · Tableau**
+Proyecto aplicado a remuneraciones para conciliar solicitudes, validar registros SAP, detectar inconsistencias y fortalecer los controles de pago mediante indicadores.
 
-Análisis de más de **58.000 transacciones**, evaluando ingresos, margen, comportamiento por país y desempeño de productos.
+### 📈 [Dashboard de desempeño comercial](https://github.com/DayaRodriguezM/dashboard-desempeno-comercial-tableau)
+
+**Power BI · Tableau · Business Intelligence**
+
+Análisis de más de 58.000 transacciones para evaluar ingresos, márgenes y desempeño comercial por país y producto.
+
 
 ---
 
